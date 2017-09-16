@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"printstuff"
+	"./printstuff"
 )
 
 func main() {
