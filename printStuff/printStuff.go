@@ -1,4 +1,4 @@
-package printstuff
+package printStuff
 
 import "fmt"
 
